@@ -3,11 +3,11 @@ LUCAS TRAVAGIN PEREIRA TEM 23 ANOS PESA 84KG TEM 1.83 DE ALTURA E SEU IMC É DE
 LUCAS NASCEU EM 1998
 */
 
-const nome = 'LAISE HARUMI'
-const sobrenome = 'TANAKA'
-const idade = 30
-const peso = 50
-const altura = 1.53
+const nome = 'JHON'
+const sobrenome = 'DOE'
+const idade = 50
+const peso = 112
+const altura = 1.98
 
 let imc = peso / (altura * altura)
 let anoNascimento = new Date().getFullYear() - idade
